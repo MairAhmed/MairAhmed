@@ -5,7 +5,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-MairAhmed-blue?logo=linkedin)
 
 ## 💼 About Me
-I'm an ** Artificial Intelligence Engineer ** from the National University of Sciences and Technology (NUST). 
+I'm an **Artificial Intelligence Engineer** from the National University of Sciences and Technology (NUST). 
 I am passionate about **AI, machine learning, computer vision, and optimization algorithms**. 
 Currently, I am working at **3Dim Engineering Solutions**, focusing on reinforcement learning and time-constrained neural networks for real-world applications, 
 such as autonomous navigation and security systems.
