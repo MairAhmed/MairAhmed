@@ -12,7 +12,7 @@ such as autonomous navigation and security systems.
 
 ## 🚀 Experience
 
-### 3Dim Engineering Solutions (July 2024 – Present)
+### 3Dim Engineering Solutions (July 2024 – Jan 2025)
 - **Optimized algorithms** using reinforcement learning to enhance decision-making speed by 30% and path accuracy by 20% in multiplayer games.  
 - Pioneered new AI applications for **autonomous navigation and security systems**, boosting system adaptability by 40%.  
 
