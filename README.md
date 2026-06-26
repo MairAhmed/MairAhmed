@@ -28,27 +28,6 @@ I'm passionate about building intelligent systems, data-driven tools, and AI-pow
 **Cloud & Tools:** AWS Bedrock · Streamlit · Git · Jupyter · Power BI · Excel  
 **Web/Mobile:** HTML/CSS/JS · Google OAuth · Capacitor (Android) · REST APIs
 
----
-
-## 💼 Experience
-
-**Cloud & Security Intern — VarianceM** *(Jun 2025 – Aug 2025)*  
-Supported implementation of secure cloud data environments, reinforcing compliance and internal controls · Configured access controls and automated reporting pipelines, improving operational efficiency by 20% · Analyzed incident and performance metrics to reduce downtime and improve decision-making
-
-**Research Intern — Control Systems Lab, NUST-SEECS** *(Jan 2024 – Apr 2024)*  
-Achieved reliable product release of an autonomous quadcopter system with 95% path-tracking accuracy by developing and validating test programs and applying root-cause analysis to resolve flight deviation failure modes · Improved system reliability by 30% under dynamic conditions by implementing sensor fusion pipelines integrating IMU and positional data · Authored structured technical documentation of test procedures and experimental findings for engineering stakeholders
-
-**Research Intern — Robotics & ML Lab, NUST-SEECS** *(Mar 2023 – Jun 2023)*  
-Achieved 40% improvement in goal-navigation success rate across 500+ simulated test runs by designing RL-based test programs and systematically debugging policy failures · Improved embedded systems reliability by 35% across edge-case conditions by deploying and validating RL models on microcontroller hardware and documenting corrective actions
-
-**Research Intern — Optimization & ML Lab, NUST-SEECS** *(Apr 2023 – Jun 2024)*  
-Achieved 90–94% precision in physiological signal estimation using SPC and DOE validation benchmarks by designing ML models that processed rPPG signals from electrical sensors · Reduced signal noise and measurement error by 20% through root-cause analysis on sensor performance gaps and cross-functional documentation of corrective actions
-
-**ML Intern — Khaleef Technologies** *(Jun 2023 – Jul 2023)*  
-Increased content recommendation accuracy by 25% by building ML models and data analysis pipelines that identified user behavior patterns and failure points · Developed Python/SQL-based dashboards for real-time anomaly detection in streaming data, enabling rapid root-cause analysis and data-driven corrective action
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
